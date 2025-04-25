@@ -1,0 +1,66 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# React build
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# FastAPI
+instance/
+*.db
+*.sqlite3
+
+# PostgreSQL data
+*.sql
+*.sqlite
+
+# Docker
+docker-compose.override.yml
+*.dockerfile
+*.env
+docker-compose.override.yml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Linux
+*.swp
+*.swo
+
+# IDEs
+.idea/
+*.iml
+
+# Environment variables files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+
+# .env files for sensitive credentials
+*.env
+
+# .history files (VSCode)
+.history/
+
+# Terraform files
+*.tfstate
+*.tfstate.backup

@@ -1,0 +1,193 @@
+[
+    {
+        "name": "Monstera Deliciosa",
+        "pot_size": 10000,
+        "start_date": "2024-04-08T00:00:00.000000"
+    },
+    {
+        "name": "Monstera Variegata",
+        "pot": "glass",
+        "pot_size": 250,
+        "start_date": "2024-07-01T00:00:00.000000"
+    },
+    {
+        "name": "Pilea Peperomioides",
+        "pot_size": 3000,
+        "start_date": "2023-12-01T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Warscewiczii",
+        "pot_size": 5000,
+        "start_date": "2023-11-30T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Dottie",
+        "pot_size": 3000,
+        "start_date": "2024-06-01T00:00:00.000000"
+    },
+    {
+        "name": "Maranta Lemon Lime",
+        "pot_size": 3000,
+        "start_date": "2024-06-01T00:00:00.000000"
+    },
+    {
+        "name": "Alocasia Jacklyn",
+        "pot_size": 3000,
+        "start_date": "2024-06-01T00:00:00.000000"
+    },
+    {
+        "name": "Alocasia Dragon Scale",
+        "pot_size": 3000,
+        "start_date": "2024-06-01T00:00:00.000000"
+    },
+    {
+        "name": "Alocasia Silver Dragon",
+        "pot_size": 3000,
+        "start_date": "2024-06-01T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Yellow Fusion",
+        "pot_size": 3000,
+        "start_date": "2024-06-01T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Makoyana",
+        "pot_size": 3000,
+        "start_date": "2024-06-01T00:00:00.000000"
+    },
+    {
+        "name": "Epipremnum Marbble Queen",
+        "pot_size": 3000,
+        "start_date": "2024-06-01T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Beauty Star",
+        "pot_size": 3000,
+        "start_date": "2024-06-01T00:00:00.000000"
+    },
+    {
+        "name": "Habanero",
+        "pot_size": 5000,
+        "start_date": "2024-04-12T00:00:00.000000"
+    },
+    {
+        "name": "Carolina Reaper",
+        "pot_size": 5000,
+        "start_date": "2024-04-12T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Musaica Network",
+        "pot_size": 3000,
+        "start_date": "2024-04-04T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Lancifolia",
+        "pot_size": 3000,
+        "start_date": "2024-04-04T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Vittata",
+        "pot_size": 3000,
+        "start_date": "2024-04-04T00:00:00.000000"
+    },
+    {
+        "name": "Philodendron Mamei",
+        "pot_size": 3000,
+        "start_date": "2024-04-04T00:00:00.000000"
+    },
+    {
+        "name": "Syngonium Arrow",
+        "pot_size": 3000,
+        "start_date": "2024-04-04T00:00:00.000000"
+    },
+    {
+        "name": "Arabica Coffea",
+        "pot_size": 3000,
+        "start_date": "2024-04-04T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Freddie",
+        "pot_size": 3000,
+        "start_date": "2024-04-04T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Rufibarba",
+        "pot_size": 3000,
+        "start_date": "2024-07-01T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Zebrina",
+        "pot_size": 3000,
+        "start_date": "2024-08-01T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Picturata Argentea",
+        "pot_size": 3000,
+        "start_date": "2024-08-01T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Orbifolia",
+        "pot_size": 3000,
+        "start_date": "2024-08-01T00:00:00.000000"
+    },
+    {
+        "name": "Calathea White Fusion",
+        "pot_size": 3000,
+        "start_date": "2024-08-01T00:00:00.000000"
+    },
+    {
+        "name": "Alocasia Pink Dragon",
+        "pot_size": 3000,
+        "start_date": "2024-08-01T00:00:00.000000"
+    },
+    {
+        "name": "Monstera Deliciosa Thai Constalation",
+        "pot_size": 3000,
+        "start_date": "2024-10-12T00:00:00.000000"
+    },
+    {
+        "name": "Alocasia Black Velvet",
+        "pot_size": 3000,
+        "start_date": "2024-07-01T00:00:00.000000"
+    },
+    {
+        "name": "Alocasia Polly",
+        "pot_size": 3000,
+        "start_date": "2024-10-12T00:00:00.000000"
+    },
+    {
+        "name": "Anthurium Crystallinum",
+        "pot_size": 3000,
+        "start_date": "2024-10-12T00:00:00.000000"
+    },
+    {
+        "name": "Alocasia Tiny Dancer",
+        "pot_size": 3000,
+        "start_date": "2024-08-10T00:00:00.000000"
+    },
+    {
+        "name": "Calathea Crimson",
+        "pot_size": 3000,
+        "start_date": "2024-08-10T00:00:00.000000"
+    },
+    {
+        "name": "Alocasia Zebrina Black",
+        "pot_size": 3000,
+        "start_date": "2024-10-18T00:00:00.000000"
+    },
+    {
+        "name": "Alocasia Melo",
+        "pot_size": 3000,
+        "start_date": "2024-10-18T00:00:00.000000"
+    },
+    {
+        "name": "Alocasia Azlani",
+        "pot_size": 3000,
+        "start_date": "2024-10-18T00:00:00.000000"
+    },
+    {
+        "name": "Alocasia Stingray",
+        "pot_size": 3000,
+        "start_date": "2024-10-18T00:00:00.000000"
+    }
+]
